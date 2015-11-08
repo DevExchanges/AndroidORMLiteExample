@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ORMLite Example</string>
+    <string name="add_cat">Add a cat</string>
+    <string name="add">Add items</string>
+    <string name="add_kit">Add a kitten</string>
+    <string name="cat">Cat name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="kitten">Kitten name</string>
+</resources>
